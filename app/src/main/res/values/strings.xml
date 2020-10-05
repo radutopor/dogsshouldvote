@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dogs Should Vote</string>
+    <string name="oops">Oops, something went wrong…</string>
+    <string name="retry">Retry</string>
+    <string name="sub_breeds">Sub-breeds</string>
+    <string name="arrow_down">▼</string>
+    <string name="arrow_up">▲</string>
+</resources>
